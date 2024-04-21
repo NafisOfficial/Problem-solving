@@ -1,4 +1,4 @@
-#include<bits/bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 const int N = 1e5+10;
 vector<char> adj[N], ans, vertex;

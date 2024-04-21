@@ -25,9 +25,6 @@ void bfs(char source)
             }
         }
     }
-    // for(auto it : list){
-    //     cout<<it<<" ";
-    // }
 }
 
 int main()
